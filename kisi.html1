@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School of Programming Kishanganj</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-left">
+            <img src="navgurukul.png" alt="Navgurukul Logo" class="logo">
+            <img src="project.potential.webp" alt="Project Potential Logo" class="logo">
+        </div>
+        <div class="nav-right">
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="header">
+        <h1>School of Programming</h1>
+    </header>
+
+    <section class="content" id="home">
+        <h2>Welcome to the School of Programming Kishanganj</h2>
+        <p>The School of Programming in Kishanganj is dedicated to providing quality education in the field of programming and computer science. Our mission is to empower students with the skills and knowledge necessary to succeed in the technology industry.</p>
+    </section>
+
+    <section class="content" id="about">
+        <h2>About Us</h2>
+        <p>The School of Programming Kishanganj was established with the goal of providing top-notch programming education to students in the region. Our faculty consists of experienced professionals who are passionate about teaching and mentoring the next generation of tech leaders.</p>
+    </section>
+
+    <section class="content" id="contact">
+        <h2>Contact Us</h2>
+        <p>For more information about our programs and admissions, please contact us at:</p>
+        <p>Email: info@schoolofprogramming.com</p>
+        <p>Phone: +91-9771293068</p>
+        <p>Address: School of Programming, Kishanganj, Bihar, India</p>
+    </section>
+</body>
+</html>

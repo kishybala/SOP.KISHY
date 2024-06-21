@@ -1,0 +1,254 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: RIGHT ;
+    background-color: rgb(215, 186, 150);
+    padding: 10px 20px;
+    color: rgb(109, 84, 52);
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+.nav-left .logo {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    align-items: right;
+    margin: 100;
+    padding: 0;
+}
+
+.nav-menu b {
+    margin: 0 10px;
+}
+
+.nav-menu a {
+    color: rgb(16, 14, 14);
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.header {
+    background: linear-gradient(45deg, #695832, #8f794a, #6e561f, #b99a68);
+    text-align: center;
+    padding: 50px 20px;
+    color: white;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 48px;
+}
+
+.header h4 {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.content {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.content h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.content p {
+    margin-bottom: 20px;
+    font-family: roboto arial;
+    font-size: 17px;
+}
+
+.content ul {
+    list-style: disc;
+    padding-left: 40px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+.image-column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.resized-image {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.nav-project {
+    margin-left: 495px;
+    padding: 10px 20px;
+    color: rgb(29, 28, 26);
+}
+
+.abc{
+    padding-left: 5px;
+}
+
+.xyz{
+    border-radius: 5px;
+    background-color: rgb(148, 175, 196);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: RIGHT ;
+    background-color: rgb(215, 186, 150);
+    padding: 10px 20px;
+    color: rgb(109, 84, 52);
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+.nav-left .logo {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    align-items: right;
+    margin: 100;
+    padding: 0;
+}
+
+.nav-menu b {
+    margin: 0 10px;
+}
+
+.nav-menu a {
+    color: rgb(16, 14, 14);
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.header {
+    background: linear-gradient(45deg, #695832, #8f794a, #6e561f, #b99a68);
+    text-align: center;
+    padding: 50px 20px;
+    color: white;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 48px;
+}
+
+.header h4 {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.content {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.content h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.content p {
+    margin-bottom: 20px;
+}
+
+.content ul {
+    list-style: disc;
+    padding-left: 40px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+.image-column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.resized-image {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.nav-project {
+    margin-left: 495px;
+    padding: 10px 20px;
+    color: rgb(29, 28, 26);
+}
+
+.abc{
+    padding-left: 5px;
+}
+
+.xyz{
+    border-radius: 5px;
+    background-color: rgb(148, 175, 196);
+}
+
